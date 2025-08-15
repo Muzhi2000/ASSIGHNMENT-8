@@ -1,0 +1,29 @@
+body{
+    font-family: 'verdana', sans-serif;
+    background-color:rgb(239, 243, 181);
+    color: rgb(37, 35, 35);
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+.container{
+max-width: 600px;
+margin-top: 10%;
+margin-left: 22%;
+padding: 40px;
+background-color: rgba(0, 0, 0, 0, 6);
+border-radius: 10px;
+}
+button{
+    padding: 10px 20px;
+    background-color: #ffdd57;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+
+}
+button:hover{
+    background-color: #ffd700;
+}
